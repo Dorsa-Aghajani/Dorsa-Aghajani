@@ -1,16 +1,38 @@
-## Hi there 👋
+# Bonjour, moi c'est Dorsa 
 
-<!--
-**Dorsa-Aghajani/Dorsa-Aghajani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Étudiante en Master **Ingénierie de la Santé – parcours Intelligence en données de santé** à l'Université de Strasbourg.
 
-Here are some ideas to get you started:
+ Issue d'une formation en **Sciences de la Vie**, je m'intéresse particulièrement à l'intersection entre **Intelligence Artificielle, Data Science et Santé**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mon objectif est d'explorer comment l'**IA et le Machine Learning** peuvent être appliqués aux données de santé et biomédicales afin d'en extraire des informations pertinentes et de contribuer à une prise de décision basée sur les données.
+
+## Domaines d'intérêt
+
+- Intelligence Artificielle appliquée à la santé
+- Machine Learning
+- Data Science 
+- Analyse de données cliniques et biomédicales
+- Modélisation prédictive
+- Apprentissage statistique
+
+## Compétences techniques
+
+**Programmation & Data :** Python · R · SQL  
+**Data Science :** Analyse de données · Statistiques · Machine Learning · Visualisation de données  
+**Outils :** Git · GitHub · Jupyter Notebook
+
+## 🌱 En cours d'apprentissage
+
+- Statistical Learning with Python
+- Approfondissement de Python pour la Data Science
+- SQL pour l'analyse de données
+- Machine Learning appliqué aux données de santé
+
+## 🔬 Mes projets actuels
+
+Je développe actuellement plusieurs projets à l'intersection de l'**Intelligence Artificielle, de la Data Science et de la Santé**, avec un intérêt particulier pour les applications cliniques et biomédicales.
+
+## 📂 Projets
+
+🚧 Portfolio en cours de mise à jour avec mes projets académiques et personnels en Data Science, Intelligence Artificielle et données de santé.
+
