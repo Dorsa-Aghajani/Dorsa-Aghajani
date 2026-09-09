@@ -21,11 +21,7 @@ Mon objectif est d'explorer comment l'**IA et le Machine Learning** peuvent êtr
 **Data Science :** Analyse de données · Statistiques · Machine Learning · Visualisation de données  
 **Outils :** Git · GitHub · Jupyter Notebook
 
-##  Mes projets actuels
+## Projets
 
-Je développe actuellement plusieurs projets à l'intersection de l'**Intelligence Artificielle, de la Data Science et de la Santé**, avec un intérêt particulier pour les applications cliniques et biomédicales.
-
-##  Projets
-
- Portfolio en cours de mise à jour avec mes projets académiques et personnels en Data Science, Intelligence Artificielle et données de santé.
+Plusieurs projets en Data Science et Intelligence Artificielle appliquées à la santé sont disponibles dans mes repositories GitHub, notamment en analyse de données cliniques, Machine Learning et modélisation prédictive.
 
