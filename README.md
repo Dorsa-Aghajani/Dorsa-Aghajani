@@ -21,13 +21,6 @@ Mon objectif est d'explorer comment l'**IA et le Machine Learning** peuvent êtr
 **Data Science :** Analyse de données · Statistiques · Machine Learning · Visualisation de données  
 **Outils :** Git · GitHub · Jupyter Notebook
 
-##  En cours d'apprentissage
-
-- Statistical Learning with Python
-- Approfondissement de Python pour la Data Science
-- SQL pour l'analyse de données
-- Machine Learning appliqué aux données de santé
-
 ##  Mes projets actuels
 
 Je développe actuellement plusieurs projets à l'intersection de l'**Intelligence Artificielle, de la Data Science et de la Santé**, avec un intérêt particulier pour les applications cliniques et biomédicales.
